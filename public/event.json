@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Guru Nanak Jayanthi",
+    "date": "2025-11-05",
+    "timeStart": "3:00 PM",
+    "timeEnd": "4:00 PM",
+    "members": 25,
+    "capacity": 30,
+    "days": ["Wed"]
+  },
+  {
+    "id": 2,
+    "title": "Guru Tegh Bahadur's Martyrdom Day",
+    "date": "2025-11-24",
+    "timeStart": "5:00 PM",
+    "timeEnd": "6:00 PM",
+    "members": 25,
+    "capacity": 30,
+    "days": ["Mon"]
+  },
+  {
+    "id": 3,
+    "title": "Christamas",
+    "date": "2025-11-25",
+    "timeStart": "11:00 PM",
+    "timeEnd": "12:00 PM",
+    "members": 25,
+    "capacity": 30,
+    "days": ["Wed", "Thu"]
+  },
+  {
+    "id": 4,
+    "title": "New Year",
+    "date": "2026-01-01",
+    "timeStart": "3:00 PM",
+    "timeEnd": "8:00 PM",
+    "members": 100,
+    "capacity": 110,
+    "days": ["Thu"]
+  }
+]

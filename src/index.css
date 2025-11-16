@@ -1,0 +1,6 @@
+@import "tailwindcss";
+html, body, #root { height: 100%; }
+
+
+/* small custom tweaks to match the soft UI */
+.shadow-lg { box-shadow: 0 10px 30px rgba(20, 20, 60, 0.06); }
